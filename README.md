@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=THE%20MASTERPIECE&fontSize=90&animation=fadeIn&fontAlignY=38&desc=A%20Journey%20of%20Code%2C%20Design%2C%20and%20Relentless%20Perfection&descAlignY=51&descAlign=62" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=50&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&height=150&lines=THE+MASTERPIECE;A+Journey+of+Code,+Design,+and+Relentless+Perfection" alt="The Masterpiece" />
 </div>
 
 <h1 align="center">Welcome to the Tourism of Masterpieces 🏛️✨</h1>
