@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=THE%20MASTERPIECE&fontSize=90&animation=fadeIn&fontAlignY=38&desc=A%20Journey%20of%20Code,%20Design,%20and%20Relentless%20Perfection&descAlignY=51&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=THE%20MASTERPIECE&fontSize=90&animation=fadeIn&fontAlignY=38&desc=A%20Journey%20of%20Code%2C%20Design%2C%20and%20Relentless%20Perfection&descAlignY=51&descAlign=62" />
 </div>
 
 <h1 align="center">Welcome to the Tourism of Masterpieces 🏛️✨</h1>
@@ -22,12 +22,6 @@ This project was forged in the fires of relentless scrutiny. Every pixel was ana
 ---
 
 ## 🤖 The "Hey" 3D Model: Breathing Life into the Web
-
-<div align="center">
-  <img src="https://i.imgur.com/8QzQZhY.gif" width="300" alt="Hey Robot Animation Preview" />
-  <br>
-  <i>(A glimpse of the dynamic "Hey" Robot in action)</i>
-</div>
 
 One of the crown jewels of this masterpiece is the **"Hey" 3D Robot Model**. This wasn't an off-the-shelf asset; it was born in **Blender**.
 
